@@ -1,0 +1,38 @@
+---
+layout: default
+title: Stats
+permalink: /stats
+---
+
+<img src="{{ site.baseurl }}/assets/img/stats-placeholder.jpg" alt="Stats Image" class="page-img" />
+
+<h1>Denver Nuggets — Player & Team Stats ({{ site.time | date: "%Y" }})</h1>
+
+<div id="team-stats" class="card" style="margin:16px 0;"></div>
+
+<h2>Player Stats — 2025–26</h2>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Player</th>
+      <th>GP</th>
+      <th>PTS</th>
+      <th>REB</th>
+      <th>AST</th>
+      <th>TS%</th>
+      <th>FG%</th>
+      <th>2P%</th>
+      <th>3P%</th>
+      <th>FT%</th>
+      <th>TOV</th>
+      <th>MIN</th>
+    </tr>
+  </thead>
+  <tbody id="players-body"></tbody>
+</table>
+
+<script>
+  // Make baseurl available to JS for fetching JSON in project pages
+  document.body.dataset.baseurl = "{{ site.baseurl }}";
+</script>
+<script src="{{ site.baseurl }}/assets/js/stats.js"></script>

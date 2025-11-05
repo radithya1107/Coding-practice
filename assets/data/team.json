@@ -1,0 +1,12 @@
+{
+  "season": "2025-26",
+  "team": "Denver Nuggets",
+  "team_stats": {
+    "games_played": 0,
+    "wins": 0,
+    "losses": 0,
+    "net_rating": 0,
+    "offensive_rating": 0,
+    "defensive_rating": 0
+  }
+}

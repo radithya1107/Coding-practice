@@ -1,0 +1,15 @@
+{
+  "season": "2025-26",
+  "team": "Denver Nuggets",
+  "players": [
+    { "name": "Nikola Jokic", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Jamal Murray", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Aaron Gordon", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Cam Johnson", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Christian Braun", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Bruce Brown", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Jonas Valanciunas", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Tim Hardaway Jr.", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 },
+    { "name": "Peyton Watson", "gp": 0, "pts": 0, "reb": 0, "ast": 0, "ts_pct": 0, "fg_pct": 0, "twop_pct": 0, "threep_pct": 0, "ft_pct": 0, "tov": 0, "min": 0 }
+  ]
+}
